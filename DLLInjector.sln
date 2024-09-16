@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DLLInjector", "DLLInjector\DLLInjector.vcxproj", "{38707CC9-4FF4-46E5-BDA9-0CACA0CA8D91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38707CC9-4FF4-46E5-BDA9-0CACA0CA8D91}.Debug|x64.ActiveCfg = Debug|x64
+		{38707CC9-4FF4-46E5-BDA9-0CACA0CA8D91}.Debug|x64.Build.0 = Debug|x64
+		{38707CC9-4FF4-46E5-BDA9-0CACA0CA8D91}.Debug|x86.ActiveCfg = Debug|Win32
+		{38707CC9-4FF4-46E5-BDA9-0CACA0CA8D91}.Debug|x86.Build.0 = Debug|Win32
+		{38707CC9-4FF4-46E5-BDA9-0CACA0CA8D91}.Release|x64.ActiveCfg = Release|x64
+		{38707CC9-4FF4-46E5-BDA9-0CACA0CA8D91}.Release|x64.Build.0 = Release|x64
+		{38707CC9-4FF4-46E5-BDA9-0CACA0CA8D91}.Release|x86.ActiveCfg = Release|Win32
+		{38707CC9-4FF4-46E5-BDA9-0CACA0CA8D91}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB26F0DF-7DB8-4E83-8FAF-7C1E95D4B74F}
+	EndGlobalSection
+EndGlobal
